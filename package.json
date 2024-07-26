@@ -1,0 +1,17 @@
+{
+  "name": "workshop-korteles-vartosi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=2001",
+    "dev2": "dead-server --port=2002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
